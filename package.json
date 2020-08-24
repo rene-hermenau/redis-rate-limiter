@@ -16,7 +16,7 @@
   "devDependencies": {
     "async": "~1.5.2",
     "express": "~4.13.4",
-    "lodash": "~4.6.1",
+    "lodash": "~4.17.20",
     "mocha": "~2.4.5",
     "redis": "~2.6.0-0",
     "require-lint": "^1.1.1",
